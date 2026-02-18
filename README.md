@@ -50,15 +50,6 @@ Olá! Eu sou o **Brian Lucca**. Sou um desenvolvedor de software apaixonado por 
 
 <br>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brianlucca&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brianlucca&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-</div>
-
 <br>
 
 <div align="center">
